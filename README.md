@@ -1,3 +1,7 @@
+
+
+## Release policy
+require tests to pass before merging to main branch
 # CityBike Service Dashboard
 
 A minimal static website used to practice Git, GitHub and automated quality checks.
